@@ -1,0 +1,22 @@
+{
+  "name": "link_tree",
+  "version": "1.0.0",
+  "description": "Proyecto Link Tree con SASS, Gulp y Flexbox",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michel Hdez",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.1.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ],
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
